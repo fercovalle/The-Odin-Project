@@ -1,0 +1,16 @@
+.imp{
+    background-color: rgb(175, 130, 145);
+    font-family: Verdana,sans-serif;
+}
+#element2{
+    color: blue;
+    font-size: 36px;
+}
+#element3{
+    font-size: 24px;
+}
+.pr{
+    background-color:rgb(187, 187, 88);
+    font-size: 24px;
+    font-weight: bold;
+}
